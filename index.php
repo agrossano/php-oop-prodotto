@@ -25,7 +25,7 @@
       public function printMe() {
         echo "La categoria merceologica è " . $this -> categoria . "<br>" .
         "Il brand è " . $this -> brand . "<br>".
-        "Il codice merceologico è " . $this -> codice . "<br>" .
+        "Il codice prodotto è " . $this -> codice . "<br>" .
         "La quantità stoccata è " . $this -> quantita . "<br><br>";
       }
     }
